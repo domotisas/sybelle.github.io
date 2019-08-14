@@ -4,6 +4,11 @@ title: README
 permalink: /readme/
 ---
 
+# ATTENTION ce projet est :
+
+- le bac à sable pour le projet de site vitrine Sybelle.
+- Pour le projet réel : sybelledom.github.io → repo + gtihub-pages
+
 # Run Jekyll (projet existant)
 
 ## CLI
@@ -33,5 +38,4 @@ permalink: /readme/
 ## Github-pages
 
 - Pour prévisualiser l'intégration pour afin de la valider
-- Branche to push to update github-pages :
--
+- Branche to push to update github-pages
